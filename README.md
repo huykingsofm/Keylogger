@@ -1,7 +1,7 @@
 ﻿# 1. Giới thiệu
 Tên phần mềm: Keylogger  
 Phân loại: Malware  
-Mục đích: Sử dụng cho nghiên cứu và học tập. Dùng để cài đặt lên máy tính nạn nhân và ghi lại các ký tự nhấn phím, sau đó gửi về email cho kẻ tấn công.  
+Mục đích: Sử dụng cho nghiên cứu và học tập. Dùng để cài đặt lên máy tính nạn nhân và ghi lại các sự kiện nhấn phím, sau đó gửi về email cho kẻ tấn công.  
 *Lưu ý: Phần mềm chỉ sử dụng cho mục đích học tập.*
 
 # 2. Chức năng
