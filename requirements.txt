@@ -1,0 +1,16 @@
+smtplib
+ssl
+email
+time
+win32api
+win32console
+win32gui
+keyboard
+threading
+os
+pygetwindow
+random
+timeit
+math
+sys
+pyinstaller
